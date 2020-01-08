@@ -1,5 +1,7 @@
 # Springboot-Eureka-Microservice-
 
+This project contains following features and code of this project is available on my private directory. 
+
 Eureka Micro services sample
 
 Eureka Discovery Server
