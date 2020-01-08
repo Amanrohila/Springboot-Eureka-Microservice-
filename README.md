@@ -21,7 +21,7 @@ Lombok
 Devtools
 
 lombok
-Please download jar and install Lombok in sts before use https://howtodoinjava.com/automation/lombok-eclipse-installation-examples/
+Please download jar and install Lombok in sts before use.
 
 Slf4j with debug level to particular location
 
