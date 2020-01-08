@@ -32,3 +32,5 @@ test http://localhost:8084/swagger-ui.html#/
 Exception Handling
 
 application.properties to application.Yml
+
+Hystrix
